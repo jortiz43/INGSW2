@@ -1,9 +1,9 @@
-package uan.edu.co.animalia;
+package uan.edu.co.mineducacion;
 
-public abstract class AbstractAnimal {
+public abstract class AbstractMinedu {
 	protected String name;
 
-	public AbstractAnimal(String name) {
+	public AbstractMinedu(String name) {
 		super();
 		this.name = name;
 	}
