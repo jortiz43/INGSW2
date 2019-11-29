@@ -1,4 +1,4 @@
-package uan.edu.co.animalia;
+package uan.edu.co.saber_hacer;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
